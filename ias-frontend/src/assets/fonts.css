@@ -1,0 +1,26 @@
+/* 
+Font family: Inter
+Font weight:
+    Regular - 400
+    Medium - 500
+    Semibold - 600
+*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+/*
+Font family: Montserrat
+Font weight:
+    Medium - 500
+    Semibold - 600
+    Bold - 700
+*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap');
+
+/*
+Font family: Poppins
+Font weight:
+    Regular - 400
+    Medium - 500
+    Semibold - 600
+*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
